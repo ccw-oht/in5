@@ -442,6 +442,7 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 body, #container-wrap { background:#ededed; }
 :-webkit-full-screen { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
+#slider { width:700px; height:600px; }
 .page-scale-wrap { width:700px; height:600px; background: #fff !important; }
 .paper-vertical { width:700px; height:100%; }
 .paper-horizontal { width:710px; height:612px; }
